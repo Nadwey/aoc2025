@@ -15,3 +15,6 @@ add_executable(aoc_2025_day2_part2 day2/part2.cpp)
 # Day 3
 add_executable(aoc_2025_day3_part1 day3/part1.cpp)
 add_executable(aoc_2025_day3_part2 day3/part2.cpp)
+
+# Day 4
+add_executable(aoc_2025_day4_part1 day4/part1.cpp)
